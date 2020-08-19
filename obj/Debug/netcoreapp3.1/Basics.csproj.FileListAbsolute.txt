@@ -1,0 +1,13 @@
+/home/sambalicious/codes/C#/New Mosh/Basics/obj/Debug/netcoreapp3.1/Basics.csprojAssemblyReference.cache
+/home/sambalicious/codes/C#/New Mosh/Basics/obj/Debug/netcoreapp3.1/Basics.AssemblyInfoInputs.cache
+/home/sambalicious/codes/C#/New Mosh/Basics/obj/Debug/netcoreapp3.1/Basics.AssemblyInfo.cs
+/home/sambalicious/codes/C#/New Mosh/Basics/obj/Debug/netcoreapp3.1/Basics.csproj.CoreCompileInputs.cache
+/home/sambalicious/codes/C#/New Mosh/Basics/bin/Debug/netcoreapp3.1/Basics
+/home/sambalicious/codes/C#/New Mosh/Basics/bin/Debug/netcoreapp3.1/Basics.deps.json
+/home/sambalicious/codes/C#/New Mosh/Basics/bin/Debug/netcoreapp3.1/Basics.runtimeconfig.json
+/home/sambalicious/codes/C#/New Mosh/Basics/bin/Debug/netcoreapp3.1/Basics.runtimeconfig.dev.json
+/home/sambalicious/codes/C#/New Mosh/Basics/bin/Debug/netcoreapp3.1/Basics.dll
+/home/sambalicious/codes/C#/New Mosh/Basics/bin/Debug/netcoreapp3.1/Basics.pdb
+/home/sambalicious/codes/C#/New Mosh/Basics/obj/Debug/netcoreapp3.1/Basics.dll
+/home/sambalicious/codes/C#/New Mosh/Basics/obj/Debug/netcoreapp3.1/Basics.pdb
+/home/sambalicious/codes/C#/New Mosh/Basics/obj/Debug/netcoreapp3.1/Basics.genruntimeconfig.cache
