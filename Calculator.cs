@@ -1,10 +1,18 @@
 namespace Basics
+
 {
-    public class Calculator
+    public class Calculator 
     {
-        public  int Add (int a, int b)
+        public int Add(params int[] numbers)
         {
-            return a + b;
+
+        var sum = 0;
+        foreach (var number in numbers)
+        {
+            sum += number;
+        }
+        return sum;
+        
         }
     }
-}
+ }
